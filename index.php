@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>Hola mundo!</h2>
+    <h2>Fue jakiado xd</h2>
 </body>
 </html>
